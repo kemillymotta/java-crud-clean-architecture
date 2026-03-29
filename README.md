@@ -1,4 +1,4 @@
-# ✅ Java To Do CLI
+# ✅ Java To Do List
 
 A simple command-line To Do List application built with Java. Manage your tasks directly from the terminal — add, list, update, delete, and mark tasks as done.
 

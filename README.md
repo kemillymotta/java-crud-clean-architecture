@@ -34,7 +34,7 @@ src/
 1. Clone the repository:
    ```bash
    git clone https://github.com/kemillymotta/java-crud-clean-architecture.git
-   cd java-todo-cli
+   cd java-crud-clean-architecture
    ```
 
 2. Compile the source files:

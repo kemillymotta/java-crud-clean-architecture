@@ -33,7 +33,7 @@ src/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/java-todo-cli.git
+   git clone [https://github.com/your-username/java-todo-cli.git](https://github.com/kemillymotta/java-crud-clean-architecture.git)
    cd java-todo-cli
    ```
 

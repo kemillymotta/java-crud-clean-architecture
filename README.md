@@ -81,8 +81,3 @@ Option: 2
 
 - Java (no external dependencies)
 
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
